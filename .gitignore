@@ -1,0 +1,4 @@
+*.csv
+*.doc
+*.docx
+.DS_Store
